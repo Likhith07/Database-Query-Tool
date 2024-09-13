@@ -1,4 +1,5 @@
 SQL Query Generator with Natural Language Results
+
 Project Overview
 This project demonstrates a Python-based application utilizing the Langchain framework to generate SQL queries from user inputs, execute those queries on a MySQL database, and return the results in natural language. Additionally, the application is wrapped in a FastAPI web service, allowing users to interact with the system via a chat-based interface.
 
